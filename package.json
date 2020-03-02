@@ -1,0 +1,24 @@
+{
+  "name": "xiuxian",
+  "version": "1.0.0",
+  "description": "Chinese God Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengqiangsheng/xiuxian.git"
+  },
+  "keywords": [
+    "God",
+    "game",
+    "china"
+  ],
+  "author": "pengqiangsheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pengqiangsheng/xiuxian/issues"
+  },
+  "homepage": "https://github.com/pengqiangsheng/xiuxian#readme"
+}
